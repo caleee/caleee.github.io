@@ -1,0 +1,3 @@
+- Translations
+  - [:cn: Chinese](/)
+  - [:uk: English](/en/)
